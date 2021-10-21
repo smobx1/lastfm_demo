@@ -1,0 +1,4 @@
+#Wed Oct 20 00:05:15 EEST 2021
+base.0=/Users/Mihnea/Developer/flutter_apps/__evolution/lastfmdemo/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+ro/designroom/lastfm/lastfmdemo/MainActivity.java
+ ro.designroom.lastfm.lastfmdemo.MainActivity
+ro/designroom/lastfm/lastfmdemo/BuildConfig.java
+ ro.designroom.lastfm.lastfmdemo.BuildConfig
